@@ -1,0 +1,6 @@
+.directory
+venv
+*extrema.csv
+*extremas.csv
+.idea
+assets
